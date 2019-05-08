@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eilaroweib.rowl.dk/sitemap.xml
